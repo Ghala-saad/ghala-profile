@@ -1,2 +1,1 @@
-# ghala-profile
-profule
+# ghala-profil
